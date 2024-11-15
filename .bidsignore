@@ -1,0 +1,12 @@
+*/func/*_run-*_bold.json
+*/func/*_run-*_bold.nii.gz
+*/func/*_run-*.tsv
+codes/MVPA_future_pictures_vmp/sustainable_future1-4_sub-*.vmp
+codes/MVPA_future_subjects_vmp/future_sub-*.vmp.vmp
+codes/MVPA_past_pictures_vmp/sustainable_past1-4_sub-*.vmp
+codes/MVPA_past_subjects_vmp/past_sub-*.vmp.vmp
+raverage.msk
+Stimuli/pict*.jpg
+*/anat/*_T1w.nii.gz
+*/anat/*_T1w.json
+/dataset_description.json
